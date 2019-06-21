@@ -8,9 +8,6 @@ Author
 ======
  Jimin McClain
  Jr. Data Analyst
- SPH Analytics
- jimin.mcclain@sphanalytics.com
- (770) 978-3173 ext. 1306
 
 Shell Syntax
 ============
